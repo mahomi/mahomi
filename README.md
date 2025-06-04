@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mahomi.</h1>
+<h1 align="center">Hi 👋, I'm jihun.ryu (mahomi) </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **AI, Machine learning**
